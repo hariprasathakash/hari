@@ -1,0 +1,200 @@
+nav {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 50px;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+  }
+  
+  li {
+    margin: 0 10px;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #1abc9c;
+  }
+  
+  .logout {
+    margin-left: auto;
+  }
+  
+  marquee {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(255, 217, 0);
+    text-shadow: 2px 2px #000;
+    padding: 10px;
+  }
+  .container {
+    max-width: 370px;
+    /* margin: 0px auto 0; */
+    border: 4px solid rgb(61, 9, 233);
+    height: 480px;
+    margin-left:400px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 16px;
+  }
+  
+  input[type="file"] {
+    margin-bottom: 0px;
+    font-size: 18px;
+  }
+  
+  select {
+    margin-bottom: 0px;
+    font-size: 16px;
+    
+  }
+  
+  input[type="text"] {
+    margin-bottom: 10px;
+    font-size: 16px;
+    
+    
+    
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+  }
+  
+  .form-group:last-child {
+    margin-bottom: 0;
+  }
+  
+
+  button {
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th,
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    background-color: rgb(116, 116, 63);
+  }
+  
+  th {
+    background-color: grey;
+    font-weight: bold;
+    font-size: 16px;
+    
+  }
+  
+  td {
+    font-size: 14px;
+    
+  }
+  
+  /* increase font size of select options */
+  select option {
+    font-size: 16px;
+    width: 100px;
+  }
+  
+  .btn {
+    background-color: green;
+    color: #ffffff;
+    border: none;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 40ch;
+    cursor: pointer;
+    width: 50%;
+    margin-left: 65px;
+  }
+  
+  .btn:hover {
+    background-color: #d51313;
+  }
+  
+  .upload {
+    padding: 10px;
+    font-weight: bold;
+    padding-left: 15px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  select {
+    width: 180px;
+    height: 30px;
+    width: 310px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 14px;
+    padding: 8px;
+  }
+  
+  .value {
+    height: 20px;
+    width: 300px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    padding: px;
+    border-radius: 5px;
+    
+    
+    
+  }
+  
+  h1 {
+    justify-content: center;
+    margin-left: 430px;
+  }
+  
+  .box {
+    border: 5px solid #df7082;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    /* Add any other styles you want */
+  }
+  
+  .container {
+    background: linear-gradient(to bottom, #87CEEB, #1E90FF);
+  }
+  
+  html, body {
+    height: 100%;
+  }
+  
+  body {
+    background-image: url('https://blog.radware.com/wp-content/uploads/2021/06/AdobeStock_164909094-scaled.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+  }
+  th{
+    color: rgb(0, 0, 0);
+  }
+  

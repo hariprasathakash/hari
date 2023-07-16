@@ -1,0 +1,36 @@
+{
+  "signup": [
+    {
+      "fname": "hariprasath",
+      "lname": "G",
+      "email": "hari123@gmail.com",
+      "phone": "7449264397",
+      "password": "hariakash",
+      "id": 1
+    },
+    {
+      "fname": "nithi",
+      "lname": "s",
+      "email": "nithi123@gmail.com",
+      "phone": "6872364812",
+      "password": "nithi1",
+      "id": 2
+    },
+    {
+      "fname": "yogesh",
+      "lname": "r",
+      "email": "hari123@gmail.com",
+      "phone": "7449264397",
+      "password": "ashwin",
+      "id": 3
+    },
+    {
+      "fname": "sundhar",
+      "lname": "a",
+      "email": "sundhar1sakj",
+      "phone": "43768471238",
+      "password": "sundhar",
+      "id": 4
+    }
+  ]
+}
